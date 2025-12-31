@@ -1,0 +1,252 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - img "adplus-dvertising" [ref=e6] [cursor=pointer]
+  - generic [ref=e7]:
+    - banner [ref=e8]:
+      - link [ref=e9] [cursor=pointer]:
+        - /url: https://demoqa.com
+        - img [ref=e10]
+    - generic [ref=e13]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - generic [ref=e19] [cursor=pointer]:
+            - generic [ref=e20]:
+              - img [ref=e22]
+              - text: Elements
+            - img [ref=e27]
+          - list [ref=e32]:
+            - listitem [ref=e33] [cursor=pointer]:
+              - img [ref=e34]
+              - generic [ref=e36]: Text Box
+            - listitem [ref=e37] [cursor=pointer]:
+              - img [ref=e38]
+              - generic [ref=e40]: Check Box
+            - listitem [ref=e41] [cursor=pointer]:
+              - img [ref=e42]
+              - generic [ref=e44]: Radio Button
+            - listitem [ref=e45] [cursor=pointer]:
+              - img [ref=e46]
+              - generic [ref=e48]: Web Tables
+            - listitem [ref=e49] [cursor=pointer]:
+              - img [ref=e50]
+              - generic [ref=e52]: Buttons
+            - listitem [ref=e53] [cursor=pointer]:
+              - img [ref=e54]
+              - generic [ref=e56]: Links
+            - listitem [ref=e57] [cursor=pointer]:
+              - img [ref=e58]
+              - generic [ref=e60]: Broken Links - Images
+            - listitem [ref=e61] [cursor=pointer]:
+              - img [ref=e62]
+              - generic [ref=e64]: Upload and Download
+            - listitem [ref=e65] [cursor=pointer]:
+              - img [ref=e66]
+              - generic [ref=e68]: Dynamic Properties
+        - generic [ref=e71] [cursor=pointer]:
+          - generic [ref=e72]:
+            - img [ref=e74]
+            - text: Forms
+          - img [ref=e80]
+        - generic [ref=e86] [cursor=pointer]:
+          - generic [ref=e87]:
+            - img [ref=e89]
+            - text: Alerts, Frame & Windows
+          - img [ref=e94]
+        - generic [ref=e100] [cursor=pointer]:
+          - generic [ref=e101]:
+            - img [ref=e103]
+            - text: Widgets
+          - img [ref=e108]
+        - generic [ref=e114] [cursor=pointer]:
+          - generic [ref=e115]:
+            - img [ref=e117]
+            - text: Interactions
+          - img [ref=e122]
+        - generic [ref=e128] [cursor=pointer]:
+          - generic [ref=e129]:
+            - img [ref=e131]
+            - text: Book Store Application
+          - img [ref=e136]
+      - generic [ref=e140]:
+        - iframe [ref=e143]:
+          
+        - heading "Web Tables" [level=1] [ref=e144]
+        - generic [ref=e145]:
+          - generic [ref=e146]:
+            - button "Add" [ref=e148] [cursor=pointer]
+            - generic [ref=e150]:
+              - textbox "Type to search" [ref=e151]
+              - img [ref=e155]
+          - generic [ref=e158]:
+            - grid [ref=e159]:
+              - row "First Name Last Name Age Email Salary Department Action" [ref=e161]:
+                - columnheader "First Name" [ref=e162] [cursor=pointer]:
+                  - generic [ref=e163]: First Name
+                - columnheader "Last Name" [ref=e165] [cursor=pointer]:
+                  - generic [ref=e166]: Last Name
+                - columnheader "Age" [ref=e168] [cursor=pointer]:
+                  - generic [ref=e169]: Age
+                - columnheader "Email" [ref=e171] [cursor=pointer]:
+                  - generic [ref=e172]: Email
+                - columnheader "Salary" [ref=e174] [cursor=pointer]:
+                  - generic [ref=e175]: Salary
+                - columnheader "Department" [ref=e177] [cursor=pointer]:
+                  - generic [ref=e178]: Department
+                - columnheader "Action" [ref=e180] [cursor=pointer]:
+                  - generic [ref=e181]: Action
+              - generic [ref=e183]:
+                - rowgroup [ref=e184]:
+                  - row "Cierra Vega 39 cierra@example.com 10000 Insurance Edit Delete" [ref=e185]:
+                    - gridcell "Cierra" [ref=e186]
+                    - gridcell "Vega" [ref=e187]
+                    - gridcell "39" [ref=e188]
+                    - gridcell "cierra@example.com" [ref=e189]
+                    - gridcell "10000" [ref=e190]
+                    - gridcell "Insurance" [ref=e191]
+                    - gridcell "Edit Delete" [ref=e192]:
+                      - generic [ref=e193]:
+                        - generic "Edit" [ref=e194] [cursor=pointer]:
+                          - img [ref=e195]
+                        - generic "Delete" [ref=e197] [cursor=pointer]:
+                          - img [ref=e198]
+                - rowgroup [ref=e200]:
+                  - row "Alden Cantrell 45 alden@example.com 12000 Compliance Edit Delete" [ref=e201]:
+                    - gridcell "Alden" [ref=e202]
+                    - gridcell "Cantrell" [ref=e203]
+                    - gridcell "45" [ref=e204]
+                    - gridcell "alden@example.com" [ref=e205]
+                    - gridcell "12000" [ref=e206]
+                    - gridcell "Compliance" [ref=e207]
+                    - gridcell "Edit Delete" [ref=e208]:
+                      - generic [ref=e209]:
+                        - generic "Edit" [ref=e210] [cursor=pointer]:
+                          - img [ref=e211]
+                        - generic "Delete" [ref=e213] [cursor=pointer]:
+                          - img [ref=e214]
+                - rowgroup [ref=e216]:
+                  - row "Kierra Gentry 29 kierra@example.com 2000 Legal Edit Delete" [ref=e217]:
+                    - gridcell "Kierra" [ref=e218]
+                    - gridcell "Gentry" [ref=e219]
+                    - gridcell "29" [ref=e220]
+                    - gridcell "kierra@example.com" [ref=e221]
+                    - gridcell "2000" [ref=e222]
+                    - gridcell "Legal" [ref=e223]
+                    - gridcell "Edit Delete" [ref=e224]:
+                      - generic [ref=e225]:
+                        - generic "Edit" [ref=e226] [cursor=pointer]:
+                          - img [ref=e227]
+                        - generic "Delete" [ref=e229] [cursor=pointer]:
+                          - img [ref=e230]
+                - rowgroup [ref=e232]:
+                  - row [ref=e233]:
+                    - gridcell [ref=e234]
+                    - gridcell [ref=e235]
+                    - gridcell [ref=e236]
+                    - gridcell [ref=e237]
+                    - gridcell [ref=e238]
+                    - gridcell [ref=e239]
+                    - gridcell [ref=e240]
+                - rowgroup [ref=e241]:
+                  - row [ref=e242]:
+                    - gridcell [ref=e243]
+                    - gridcell [ref=e244]
+                    - gridcell [ref=e245]
+                    - gridcell [ref=e246]
+                    - gridcell [ref=e247]
+                    - gridcell [ref=e248]
+                    - gridcell [ref=e249]
+                - rowgroup [ref=e250]:
+                  - row [ref=e251]:
+                    - gridcell [ref=e252]
+                    - gridcell [ref=e253]
+                    - gridcell [ref=e254]
+                    - gridcell [ref=e255]
+                    - gridcell [ref=e256]
+                    - gridcell [ref=e257]
+                    - gridcell [ref=e258]
+                - rowgroup [ref=e259]:
+                  - row [ref=e260]:
+                    - gridcell [ref=e261]
+                    - gridcell [ref=e262]
+                    - gridcell [ref=e263]
+                    - gridcell [ref=e264]
+                    - gridcell [ref=e265]
+                    - gridcell [ref=e266]
+                    - gridcell [ref=e267]
+                - rowgroup [ref=e268]:
+                  - row [ref=e269]:
+                    - gridcell [ref=e270]
+                    - gridcell [ref=e271]
+                    - gridcell [ref=e272]
+                    - gridcell [ref=e273]
+                    - gridcell [ref=e274]
+                    - gridcell [ref=e275]
+                    - gridcell [ref=e276]
+                - rowgroup [ref=e277]:
+                  - row [ref=e278]:
+                    - gridcell [ref=e279]
+                    - gridcell [ref=e280]
+                    - gridcell [ref=e281]
+                    - gridcell [ref=e282]
+                    - gridcell [ref=e283]
+                    - gridcell [ref=e284]
+                    - gridcell [ref=e285]
+                - rowgroup [ref=e286]:
+                  - row [ref=e287]:
+                    - gridcell [ref=e288]
+                    - gridcell [ref=e289]
+                    - gridcell [ref=e290]
+                    - gridcell [ref=e291]
+                    - gridcell [ref=e292]
+                    - gridcell [ref=e293]
+                    - gridcell [ref=e294]
+            - generic [ref=e296]:
+              - button "Previous" [disabled] [ref=e298]
+              - generic [ref=e299]:
+                - generic [ref=e300]:
+                  - text: Page
+                  - spinbutton "jump to page" [ref=e302]: "1"
+                  - text: of 1
+                - combobox "rows per page" [ref=e304]:
+                  - option "5 rows"
+                  - option "10 rows" [selected]
+                  - option "20 rows"
+                  - option "25 rows"
+                  - option "50 rows"
+                  - option "100 rows"
+              - button "Next" [disabled] [ref=e306]
+            - generic:
+              - generic: Loading...
+        - iframe [ref=e310]:
+          - generic [ref=f2e8] [cursor=pointer]:
+            - link [ref=f2e10]:
+              - /url: https://clck.mgid.com/ghits/25715240/i/58092122/0/pp/1/4?h=Kxix5BjqVQcgJd4dj6qjWdPBS4ulWCDCCPGDYbZuyEVGwpA3JL86JGOP7WPuBunt_MBhGTcj0dpJtiaOUNgkPkDhvIfn_RaR5jjH-kYJwf5AZgeaswVLXQq9FQyYsL45&rid=cf83dea9-e545-11f0-afc6-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pbto2GiHcJ7m&st=330&mp4=1&h2=__TaF7HQs5f0wgNvC70TKDotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7T4SBmKnMgOm-9Juz7CscQ5A**
+            - generic [ref=f2e13]:
+              - link "Intel" [ref=f2e15]:
+                - /url: https://clck.mgid.com/ghits/25715240/i/58092122/0/pp/1/4?h=Kxix5BjqVQcgJd4dj6qjWdPBS4ulWCDCCPGDYbZuyEVGwpA3JL86JGOP7WPuBunt_MBhGTcj0dpJtiaOUNgkPkDhvIfn_RaR5jjH-kYJwf5AZgeaswVLXQq9FQyYsL45&rid=cf83dea9-e545-11f0-afc6-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pbto2GiHcJ7m&st=330&mp4=1&h2=__TaF7HQs5f0wgNvC70TKDotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7T4SBmKnMgOm-9Juz7CscQ5A**
+              - link "Unlock Performance While Keeping Data Secure" [ref=f2e17]:
+                - /url: https://clck.mgid.com/ghits/25715240/i/58092122/0/pp/1/4?h=Kxix5BjqVQcgJd4dj6qjWdPBS4ulWCDCCPGDYbZuyEVGwpA3JL86JGOP7WPuBunt_MBhGTcj0dpJtiaOUNgkPkDhvIfn_RaR5jjH-kYJwf5AZgeaswVLXQq9FQyYsL45&rid=cf83dea9-e545-11f0-afc6-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pbto2GiHcJ7m&st=330&mp4=1&h2=__TaF7HQs5f0wgNvC70TKDotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7T4SBmKnMgOm-9Juz7CscQ5A**
+              - link "Learn more→" [ref=f2e19]:
+                - /url: https://clck.mgid.com/ghits/25715240/i/58092122/0/pp/1/4?h=Kxix5BjqVQcgJd4dj6qjWdPBS4ulWCDCCPGDYbZuyEVGwpA3JL86JGOP7WPuBunt_MBhGTcj0dpJtiaOUNgkPkDhvIfn_RaR5jjH-kYJwf5AZgeaswVLXQq9FQyYsL45&rid=cf83dea9-e545-11f0-afc6-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pbto2GiHcJ7m&st=330&mp4=1&h2=__TaF7HQs5f0wgNvC70TKDotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7T4SBmKnMgOm-9Juz7CscQ5A**
+      - generic [ref=e315]:
+        - img "Build PlayWright tests with AI" [ref=e317] [cursor=pointer]
+        - iframe [ref=e320]:
+          - generic [ref=f3e7] [cursor=pointer]:
+            - link [ref=f3e8]:
+              - /url: https://clck.mgid.com/ghits/25715242/i/58092113/0/pp/1/4?h=Kxix5BjqVQcgJd4dj6qjWeaf4uoE7VipaOGS-fpeYpLLkaJm11ovuidvSUbMRa3W_MBhGTcj0dpJtiaOUNgkPkDhvIfn_RaR5jjH-kYJwf40Sj_5J49cRf57sFC_QnEP&rid=cf84fc70-e545-11f0-afc6-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pbtogy_qXi7m&st=330&mp4=1&h2=__TaF7HQs5f0wgNvC70TKINLSG4UbKMGxZxPQBEUpqbqUd95bTSEBwmXOMB8XK7TdIH_bz6gCB-yTWn4-NDd7g**
+            - generic [ref=f3e9]:
+              - link [ref=f3e11]:
+                - /url: https://clck.mgid.com/ghits/25715242/i/58092113/0/pp/1/4?h=Kxix5BjqVQcgJd4dj6qjWeaf4uoE7VipaOGS-fpeYpLLkaJm11ovuidvSUbMRa3W_MBhGTcj0dpJtiaOUNgkPkDhvIfn_RaR5jjH-kYJwf40Sj_5J49cRf57sFC_QnEP&rid=cf84fc70-e545-11f0-afc6-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pbtogy_qXi7m&st=330&mp4=1&h2=__TaF7HQs5f0wgNvC70TKINLSG4UbKMGxZxPQBEUpqbqUd95bTSEBwmXOMB8XK7TdIH_bz6gCB-yTWn4-NDd7g**
+              - generic [ref=f3e14]:
+                - link "Unlock Performance While Keeping Data Secure" [ref=f3e16]:
+                  - /url: https://clck.mgid.com/ghits/25715242/i/58092113/0/pp/1/4?h=Kxix5BjqVQcgJd4dj6qjWeaf4uoE7VipaOGS-fpeYpLLkaJm11ovuidvSUbMRa3W_MBhGTcj0dpJtiaOUNgkPkDhvIfn_RaR5jjH-kYJwf40Sj_5J49cRf57sFC_QnEP&rid=cf84fc70-e545-11f0-afc6-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pbtogy_qXi7m&st=330&mp4=1&h2=__TaF7HQs5f0wgNvC70TKINLSG4UbKMGxZxPQBEUpqbqUd95bTSEBwmXOMB8XK7TdIH_bz6gCB-yTWn4-NDd7g**
+                - link "Intel" [ref=f3e18]:
+                  - /url: https://clck.mgid.com/ghits/25715242/i/58092113/0/pp/1/4?h=Kxix5BjqVQcgJd4dj6qjWeaf4uoE7VipaOGS-fpeYpLLkaJm11ovuidvSUbMRa3W_MBhGTcj0dpJtiaOUNgkPkDhvIfn_RaR5jjH-kYJwf40Sj_5J49cRf57sFC_QnEP&rid=cf84fc70-e545-11f0-afc6-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pbtogy_qXi7m&st=330&mp4=1&h2=__TaF7HQs5f0wgNvC70TKINLSG4UbKMGxZxPQBEUpqbqUd95bTSEBwmXOMB8XK7TdIH_bz6gCB-yTWn4-NDd7g**
+                - link [ref=f3e19]:
+                  - /url: https://clck.mgid.com/ghits/25715242/i/58092113/0/pp/1/4?h=Kxix5BjqVQcgJd4dj6qjWeaf4uoE7VipaOGS-fpeYpLLkaJm11ovuidvSUbMRa3W_MBhGTcj0dpJtiaOUNgkPkDhvIfn_RaR5jjH-kYJwf40Sj_5J49cRf57sFC_QnEP&rid=cf84fc70-e545-11f0-afc6-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pbtogy_qXi7m&st=330&mp4=1&h2=__TaF7HQs5f0wgNvC70TKINLSG4UbKMGxZxPQBEUpqbqUd95bTSEBwmXOMB8XK7TdIH_bz6gCB-yTWn4-NDd7g**
+                  - img [ref=f3e20]
+    - contentinfo [ref=e321]:
+      - generic [ref=e322]: © 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.
+```

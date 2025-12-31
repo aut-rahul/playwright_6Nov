@@ -1,0 +1,298 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - img [ref=e6] [cursor=pointer]
+    - iframe [ref=e9]:
+      - generic [ref=f1e2]:
+        - link "Advertisement" [ref=f1e4] [cursor=pointer]:
+          - /url: https://ad.doubleclick.net/pcs/click?xai=AKAOjssmdLFRYIyNiP_YF3eeaeN6NxDkcg5RuVthyA48XMPt2yocf8CSTl7qCG6Xb2AXoZVbum7lWjbVTTWn7wwKQlBqEFYxTViQRWwhII4aRYwUthWWmgxyfcfj1zSVm9xmi5QbxzMU21CE1jljdpyny13cQraGRW6t5ke6migkCK43q0ir3KVorxNTlO1OvJXlqpE57LjUG_VAm0_SkVwbuTuw7KQey4LYD8l72PeGrZM1K4OEVVRinrimMtLuhN0JhMv0f_Chj6u5FTtd69e6oFXSgHs-_ifjyn9AZEn6CCzz3rhKUmWv5285f1YTaicPRD9RwoNKLtiJTDt8OjMdtcWSiUnQ68KAKM39cq_1U5iYot8lQd_kMl9VIuHig9aEqC59QdyllE3FcrWD-k68Y__JMkcqEfkm4QW1qsKXcmWgZA4mnt1m2sI9E3imhnZhmpsIDn5toEaoiI8x01HAEpHC2cKF5_HzXN67sKrtGybGQd3xbgRYBjKixazsFeFriHymZ11v5MzLNNKgqlIpmpuZfNdVJ5AOQK6wVO13GhfGRT5E6Fh2E2xBQEncy2nMC9l0VxZ-CaIQNt0QhUjU8hul44Da7wcQ3pXzQL7imiAPJ9gS53tRXd2SeTAdHgqLRWxwtM7qK9qt5m-HFy5jkAFKAUf8HZPX2KDWWDEEgm54m_2OZmt7E6onZWhEoLYactUje6_7SL_BBISdKCCwzaY23OnarZFmwi8g-br4xVqfd2YhyLeA_9Liih4JiPTLsLrHYrrRcr8wNWAl_chKmVDN8UXyEGaFzkR4qf4G2QKvEihVHSRm1SW_kbWs9FPZiszuXFPv2L-G0AE5N0TKsE2uyCQudhD7Z4Ogx5-qdCFkxuzlY85kMrImkaEvpM6-_WGK1xZy_Zvk0m-FsqTF_pdcgoe7-dXgnOnaZBKGRKgmAK511IdUzswzzh-UEL9Ttl6yPOM29eCgiCFUmnS1aw2Lkhip-Ru03QZnhLrG1v-hMdt_d47itxrNF2UrtFCc1T3E_4jW8EPdMlN0c6agnpRaRUSlpufn__slN_XQkjBQSrc63tbVKTuelHhtSSdCOT_YLH-8WMEfQjq_xjN9QBq8LQffJUwXodAlrfuQfruMek3Ka1uSlnLu8DF0Cars9bt0i2rFNbeOPp4OsUF5pl0DBEZdDwsn_OPQ2cMMU1bVK2XasrY5JOCjXMy3hKcRQSLHk02sQgVr_js7-Lfbizbf40TAuDwI0dWktgH0jvaVJUhV9JC-cJMuS85Lp83YHJxa3wEwMoCQ9dqsy51nsIeddSIljO_STWDgTgtLltK-iAhndBnoBKxOgGCmp9Kj_WrS5WVdxp4VB6GVM9Kbvt2K9kjyRtU9Absb5aOcvPTQRRwnoqGsDpVcDm7d462Qf2HqJDcGbrqQnZ8Q4fj2vEY1AOMhmXgoQ18bpDtbSvm6Cn0o9rh-QAjqbu_cY7d2saTN9n9FDmT8CRaDnGBCt9b-AfDvKp4mh-Ae_IQtzDxIb73_g0shhKohxfLfmuFT5S25MMcSYqdF9JlNbJcFuGzac19JMhkRp6wzUuRIRt6OhmE-eO16zsPVxosuEM6gciKRNK5F-j16oqfU2ZdIWS52HewsDG8ygfJhihMaLjlREZZjU8x8B213RGwyUF6_8v-phCFcFn7s6-yS_ItIOZ7ou8RJcCqP2BTLMOt_3wfkEtPW19Rw8zTPqTHZp9cx6NflO6DJFnpgw5R4C6Nolsv-EMOUFNc3_LmW4pjXZKtVdQrXpfIq2fZx2MwJwKuBpWD6pUoAbJbNG8cOMrFjExjvRva0-Q&sai=AMfl-YSkjMdjQHBTIHUj_lfv3F5RxuvkJu-XNAIjiqFWLHvumH_cMAPRsmvgffiNE-JeHM5SlkLrFBUZU-BhwyADNZfe1PdkVN0I0EZ3c5ncCu3nEHNGXajjLPG6A3ehVlhC-Qi7f5rE7wa6mooKlbe2IHXAaE8zrVWmf_BP7UDlvDp4LMTL3H4k_n9ru7mTS1fRIpZlCBTAn9ac4wcVgMpAlHTBSzdGPIfCV6VbflaVh4QKbEAJ3apLb1XX5REchXzS7u1VDPzWWCAETwEUkDFpkBPAqGpDtt8xk3nwS6nvjIyBIgQpH7Gm5vDA7yD-5CuRtSl5a8ovOUPGzfQ4TY7zSY2h2k55h3_p_die5A7tNYNWYj2rBKykpBIoCaLN3iMvmtwCzCuUi8SU0R-Wm0oRF_3JS343CwPcfO_HziMQDVHUfvU0M25EB8SEZduH344ZB_NpzdP0lr61G4BTnrej_z9AbyptSwLJNUsb0dc5rYpj8jHL_YwkAX9A-vzAMOhpBRcOcGJZquCXKSEj2D8yu6V_DWmymyzCKyXpF8lOq_FEh0HwtgVk6JY1BLWxLVyib5ZoEnlvsdkhQki5Ptams03kmgzYt3VJ5CuOtJ4jatXpmRkxyyHTFBik_RhcpnpCv4Q9Rg&sig=Cg0ArKJSzERkxzIRHSIR&fbs_aeid=%5Bgw_fbsaeid%5D&crd=aHR0cHM6Ly9wcmltZXZpZGVvLmNvbQ&urlfix=1&adurl=https://www.primevideo.com/region/eu/detail/amzn1.dv.gti.2dc5639f-f98b-4719-af21-d53507d98d31/%3Fref_%3Ddvm_pdd_rtbdv360_thamma_ln_st_newset-c1_na%26dclid%3D%25edclid!%26gad_source%3D7
+          - img "Advertisement" [ref=f1e5]
+        - generic [ref=f1e6]:
+          - generic:
+            - img [ref=f1e10] [cursor=pointer]
+            - button [ref=f1e12] [cursor=pointer]:
+              - img [ref=f1e13]
+  - generic [ref=e10]:
+    - banner [ref=e11]:
+      - link [ref=e12] [cursor=pointer]:
+        - /url: https://demoqa.com
+        - img [ref=e13]
+    - generic [ref=e16]:
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - generic [ref=e22] [cursor=pointer]:
+            - generic [ref=e23]:
+              - img [ref=e25]
+              - text: Elements
+            - img [ref=e30]
+          - list [ref=e35]:
+            - listitem [ref=e36] [cursor=pointer]:
+              - img [ref=e37]
+              - generic [ref=e39]: Text Box
+            - listitem [ref=e40] [cursor=pointer]:
+              - img [ref=e41]
+              - generic [ref=e43]: Check Box
+            - listitem [ref=e44] [cursor=pointer]:
+              - img [ref=e45]
+              - generic [ref=e47]: Radio Button
+            - listitem [ref=e48] [cursor=pointer]:
+              - img [ref=e49]
+              - generic [ref=e51]: Web Tables
+            - listitem [ref=e52] [cursor=pointer]:
+              - img [ref=e53]
+              - generic [ref=e55]: Buttons
+            - listitem [ref=e56] [cursor=pointer]:
+              - img [ref=e57]
+              - generic [ref=e59]: Links
+            - listitem [ref=e60] [cursor=pointer]:
+              - img [ref=e61]
+              - generic [ref=e63]: Broken Links - Images
+            - listitem [ref=e64] [cursor=pointer]:
+              - img [ref=e65]
+              - generic [ref=e67]: Upload and Download
+            - listitem [ref=e68] [cursor=pointer]:
+              - img [ref=e69]
+              - generic [ref=e71]: Dynamic Properties
+        - generic [ref=e74] [cursor=pointer]:
+          - generic [ref=e75]:
+            - img [ref=e77]
+            - text: Forms
+          - img [ref=e83]
+        - generic [ref=e89] [cursor=pointer]:
+          - generic [ref=e90]:
+            - img [ref=e92]
+            - text: Alerts, Frame & Windows
+          - img [ref=e97]
+        - generic [ref=e103] [cursor=pointer]:
+          - generic [ref=e104]:
+            - img [ref=e106]
+            - text: Widgets
+          - img [ref=e111]
+        - generic [ref=e117] [cursor=pointer]:
+          - generic [ref=e118]:
+            - img [ref=e120]
+            - text: Interactions
+          - img [ref=e125]
+        - generic [ref=e131] [cursor=pointer]:
+          - generic [ref=e132]:
+            - img [ref=e134]
+            - text: Book Store Application
+          - img [ref=e139]
+      - generic [ref=e143]:
+        - iframe [ref=e146]:
+          - generic [ref=f2e2]:
+            - link "Advertisement" [ref=f2e4] [cursor=pointer]:
+              - /url: https://ad.doubleclick.net/pcs/click?xai=AKAOjsugeDu8BKOdjbm6076gsK3e-a2sbA5lvar_cfSmSwrm8YreYj5zY_QhCOLc2b1D4STp99LOBuQAe90lVAko1pBtf9bToWZrhueszYxAmi98lmuJYi9HTGDXhHM6Iocz9zGngsqPwW0Tc1OYVIknH_VLqDByHqbOdbSKV-INWy2bMXs7nw-vhqFGrz6r6BL1gkw9rsTfRaTvWg88yNRRw6qFWKCUwLmqNHhn9jz_NukZv2gMDEozrHD8Xadus84Mx9fpdvKtkZdZ_ukIIh8pgRda8xD_EJu--AFQ_j8UKfshDiG8Nx-l3U5R-EGBBnR2p5ZOonHH6BHQLUdVXiLWqjr68WD30soT-M5Eb8iQqZbRlcZWoOOCNDHJAL6DicJCbnew5c2VAPMEGrhv4O7D7gYlbr9k7-UkjN83KrL2uJ_rOLPzSLNpw21YvlpWbZvZVAuKk02dGQSCDFf1GyaEpz3uLp4eo11m2WIFb2xGgV7LPu0q-ZLi2ZSIev2AuSGR7f1zt7plPNu44vHRmow6zBgXUmrpeDFNyiEWwA4p5g3hFBE12yBnfRcPYzngpFLGSIM9fKZyzL6Lsm2vfF8lW4JHb7aa0c0GhiccKokKJeug0IgZASDLxjBwYN6sDOVV_zoDJkKTbql_zzFQXN38towcXFRj5O62y8noX_vG1Xm-R3F04aF4I8mxJ2aAjEtv25sSULhv_010wnfVgpj0I4tfwTk7nFAWdbGNASb-6qW1sIk5V2Z-KpIyHXsWka9DKj2v3ZyAOLrcvPGhs8CYSTdILpN5pcrRiaQH6kCwQ0HNQPtzePy6w9VaeRUYXhT_cQ5d1lfPPCS6wCyobWuY2DS0yjxDoXyDOpv68mL5xpa6UKpcQfdMMDMC2gdkZ2COGQdOXne20qaVJZnyqGTv-9byy3LQyUFmxYR9V7oio7XeRwgL1RQOtDzTSixD0aPp1QuNV6vTwRayyVolgDR0e4bJFORHDJeY8e-jHg1ipsCQZkMAVbGqMhq8enkts4GCm6JrADElqC4XIHGNg0s8D3KD96qTlYSQryy8W-AJ7Bp9tnsvztym5kFRzdwtR1_A_i3YIvlAuHWphH66oczlR1idZxkvIoSfmT0epH2jqt9RihoGKixDYIpxHm1lOLmUjeW_3N8-NzkER_H4tfgb9Jvb_UDPh5KVXuNKNtd8iYvEji6-f4wwC4q0t2MH0glxMAyWMz2ZTyAInhrGQcyGkN8ocfG-mFTQgXeBSsBAJMs7jhhfKG7DpCC5evm__S48-yap91ktI3NqdT6SP7AH02c6MwrDd-mtIy_BFT4GCZn6WLkWHkZ6XJgJVhYN8oUcKDZZytAu3brE9gxM0Z9XvoyNvCPOvKK1AQsyYnFDBl69I4QoQzlDJxBtNQkjCmukywOwPzWGTDDRfoOh_kQ-FZMWZNoKlHJislHUywpYaZyeDnMXZ1Yc7Qggp40UvP9s3aQR3Srg1_YZmQtCM6V9d4B8HQkITP4_G1LMcoQM_Yzl_QuWAMiX7vP-fg4HNzFS2W-Rv_VM-mrLJ1hj3rTwRj19aL03Zg9bOeEOKyqI_4-X1h2P5KxD564a5r2zwX4-lJP8tuI9-vLh4u_QXoAXCJ9AjOGWPjwyKzfqs4jrU_VYw9UYhKtx45f-vC-WxGRa1TOqbgWDlqrnTyIj81rQxWlxy_2q9GaEECDrp_UiIrCLS0jhp-hhapCV5mbNqQ3d4HqjHceWTOWDIqHgGaANmeiWXhDrkWlw1PAFNrKu5RwBLGQD-45lxCdVSnZEzr8j-Aqn8XttU7BtjZCXlS7b7jZiSOSb6jx3AgGkkFZi8RYGFpL8&sai=AMfl-YQx6m932HqPTTSv098sZBA2aLX6mA5WZoBTsfN-Vg-AQATPYyX6ka1zP8x70EUb7H-I7fo8SgkZNtcPALBsvoXpWXeh6n6Wp12YEkJduh1AYmHv8pFAZTuaIFWDWjUWrFVUJZVGhYvLaaGQkb0SprQoDp7V078i_rX8vNBaZgOo21MeB35kyScrfkoJa1fvLXDUsbn1LBhbYxmWVCgL3atmK3bu6e_oRzErtbFt7zNJD1B96edbidfSLk01YUFCyTPZ58X9uWEwx0PAtxtroxPGbNVOOOIPzYAZMdbypt4uMe61YWolgzbOFJ9QDxe4MlOUOENXvcbP3IFDRETQNkN1F9Hepo4YQVvRiRGY10YfhzIPh3appl0Dbbj9i3YJt3LPRpq71XQhOJVIVdoOaLKcz7hak4Qr-RGl_20pI9p9F2fFY-FW2YvgfJV0iNVl85poTTixeLIVwzfKhOnloHJUG-70NaLZOCETKQtbHOOVRETFJScS70ty7qDG8vwCfGISQx-dkBLcG7omLo1rPOXpcd-HG4mHxjd7mmJnBYApVCVC5XTm2fbIryNu27K1MyZ-UDe7gbaZ-GKVTdqNwUy3ZtSXw5um8w7I-5yCebX9ME-hY46u34Eqd57z1MWGmtiWVkiTAA6A&sig=Cg0ArKJSzJXRyVF3c1gj&fbs_aeid=%5Bgw_fbsaeid%5D&crd=aHR0cHM6Ly9iYW5rLmlu&urlfix=1&adurl=https://bandhan.bank.in/possible-hai-product/affluent-savings-accounts%3Futm_source%3Ddisplay%26utm_medium%3Dcpm%26utm_campaign%3DHNI_north-west%26dclid%3D%25edclid!%26gad_source%3D7
+              - img "Advertisement" [ref=f2e5]
+            - generic [ref=f2e6]:
+              - generic:
+                - img [ref=f2e10] [cursor=pointer]
+                - button [ref=f2e12] [cursor=pointer]:
+                  - img [ref=f2e13]
+        - heading [level=1] [ref=e147]: Web Tables
+        - generic [ref=e148]:
+          - generic [ref=e149]:
+            - button [ref=e151] [cursor=pointer]: Add
+            - generic [ref=e153]:
+              - textbox [ref=e154]:
+                - /placeholder: Type to search
+              - img [ref=e158]
+          - generic [ref=e161]:
+            - grid [ref=e162]:
+              - row [ref=e164]:
+                - columnheader [ref=e165] [cursor=pointer]:
+                  - generic [ref=e166]: First Name
+                - columnheader [ref=e168] [cursor=pointer]:
+                  - generic [ref=e169]: Last Name
+                - columnheader [ref=e171] [cursor=pointer]:
+                  - generic [ref=e172]: Age
+                - columnheader [ref=e174] [cursor=pointer]:
+                  - generic [ref=e175]: Email
+                - columnheader [ref=e177] [cursor=pointer]:
+                  - generic [ref=e178]: Salary
+                - columnheader [ref=e180] [cursor=pointer]:
+                  - generic [ref=e181]: Department
+                - columnheader [ref=e183] [cursor=pointer]:
+                  - generic [ref=e184]: Action
+              - generic [ref=e186]:
+                - rowgroup [ref=e187]:
+                  - row [ref=e188]:
+                    - gridcell [ref=e189]: Cierra
+                    - gridcell [ref=e190]: Vega
+                    - gridcell [ref=e191]: "39"
+                    - gridcell [ref=e192]: cierra@example.com
+                    - gridcell [ref=e193]: "10000"
+                    - gridcell [ref=e194]: Insurance
+                    - gridcell [ref=e195]:
+                      - generic [ref=e196]:
+                        - img [ref=e198] [cursor=pointer]
+                        - img [ref=e201] [cursor=pointer]
+                - rowgroup [ref=e203]:
+                  - row [ref=e204]:
+                    - gridcell [ref=e205]: Alden
+                    - gridcell [ref=e206]: Cantrell
+                    - gridcell [ref=e207]: "45"
+                    - gridcell [ref=e208]: alden@example.com
+                    - gridcell [ref=e209]: "12000"
+                    - gridcell [ref=e210]: Compliance
+                    - gridcell [ref=e211]:
+                      - generic [ref=e212]:
+                        - img [ref=e214] [cursor=pointer]
+                        - img [ref=e217] [cursor=pointer]
+                - rowgroup [ref=e219]:
+                  - row [ref=e220]:
+                    - gridcell [ref=e221]: Kierra
+                    - gridcell [ref=e222]: Gentry
+                    - gridcell [ref=e223]: "29"
+                    - gridcell [ref=e224]: kierra@example.com
+                    - gridcell [ref=e225]: "2000"
+                    - gridcell [ref=e226]: Legal
+                    - gridcell [ref=e227]:
+                      - generic [ref=e228]:
+                        - img [ref=e230] [cursor=pointer]
+                        - img [ref=e233] [cursor=pointer]
+                - rowgroup [ref=e235]:
+                  - row [ref=e236]:
+                    - gridcell [ref=e237]
+                    - gridcell [ref=e238]
+                    - gridcell [ref=e239]
+                    - gridcell [ref=e240]
+                    - gridcell [ref=e241]
+                    - gridcell [ref=e242]
+                    - gridcell [ref=e243]
+                - rowgroup [ref=e244]:
+                  - row [ref=e245]:
+                    - gridcell [ref=e246]
+                    - gridcell [ref=e247]
+                    - gridcell [ref=e248]
+                    - gridcell [ref=e249]
+                    - gridcell [ref=e250]
+                    - gridcell [ref=e251]
+                    - gridcell [ref=e252]
+                - rowgroup [ref=e253]:
+                  - row [ref=e254]:
+                    - gridcell [ref=e255]
+                    - gridcell [ref=e256]
+                    - gridcell [ref=e257]
+                    - gridcell [ref=e258]
+                    - gridcell [ref=e259]
+                    - gridcell [ref=e260]
+                    - gridcell [ref=e261]
+                - rowgroup [ref=e262]:
+                  - row [ref=e263]:
+                    - gridcell [ref=e264]
+                    - gridcell [ref=e265]
+                    - gridcell [ref=e266]
+                    - gridcell [ref=e267]
+                    - gridcell [ref=e268]
+                    - gridcell [ref=e269]
+                    - gridcell [ref=e270]
+                - rowgroup [ref=e271]:
+                  - row [ref=e272]:
+                    - gridcell [ref=e273]
+                    - gridcell [ref=e274]
+                    - gridcell [ref=e275]
+                    - gridcell [ref=e276]
+                    - gridcell [ref=e277]
+                    - gridcell [ref=e278]
+                    - gridcell [ref=e279]
+                - rowgroup [ref=e280]:
+                  - row [ref=e281]:
+                    - gridcell [ref=e282]
+                    - gridcell [ref=e283]
+                    - gridcell [ref=e284]
+                    - gridcell [ref=e285]
+                    - gridcell [ref=e286]
+                    - gridcell [ref=e287]
+                    - gridcell [ref=e288]
+                - rowgroup [ref=e289]:
+                  - row [ref=e290]:
+                    - gridcell [ref=e291]
+                    - gridcell [ref=e292]
+                    - gridcell [ref=e293]
+                    - gridcell [ref=e294]
+                    - gridcell [ref=e295]
+                    - gridcell [ref=e296]
+                    - gridcell [ref=e297]
+            - generic [ref=e299]:
+              - button [disabled] [ref=e301]: Previous
+              - generic [ref=e302]:
+                - generic [ref=e303]:
+                  - text: Page
+                  - spinbutton [ref=e305]: "1"
+                  - text: of 1
+                - combobox [ref=e307]
+              - button [disabled] [ref=e309]: Next
+            - generic:
+              - generic: Loading...
+        - iframe [ref=e313]:
+          - generic [ref=f3e8] [cursor=pointer]:
+            - link [ref=f3e10]:
+              - /url: https://clck.mgid.com/ghits/25715240/i/58092122/0/pp/1/7?h=nNns9IgZ1OH2zBzJz6KvlNPBS4ulWCDCCPGDYbZuyEU0NOIrLu2IWh-2dowYhSS5_MBhGTcj0dpJtiaOUNgkPkDhvIfn_RaR5jjH-kYJwf45hIrQkyy-DFJEinNpodzj&rid=a18b5837-e543-11f0-af5c-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pbtMbJDph3Pl&st=330&mp4=1&h2=__TaF7HQs5f0wgNvC70TKDotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7T4SBmKnMgOm-9Juz7CscQ5A**
+            - generic [ref=f3e13]:
+              - link "Intel" [ref=f3e15]:
+                - /url: https://clck.mgid.com/ghits/25715240/i/58092122/0/pp/1/7?h=nNns9IgZ1OH2zBzJz6KvlNPBS4ulWCDCCPGDYbZuyEU0NOIrLu2IWh-2dowYhSS5_MBhGTcj0dpJtiaOUNgkPkDhvIfn_RaR5jjH-kYJwf45hIrQkyy-DFJEinNpodzj&rid=a18b5837-e543-11f0-af5c-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pbtMbJDph3Pl&st=330&mp4=1&h2=__TaF7HQs5f0wgNvC70TKDotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7T4SBmKnMgOm-9Juz7CscQ5A**
+              - link "Unlock Performance While Keeping Data Secure" [ref=f3e17]:
+                - /url: https://clck.mgid.com/ghits/25715240/i/58092122/0/pp/1/7?h=nNns9IgZ1OH2zBzJz6KvlNPBS4ulWCDCCPGDYbZuyEU0NOIrLu2IWh-2dowYhSS5_MBhGTcj0dpJtiaOUNgkPkDhvIfn_RaR5jjH-kYJwf45hIrQkyy-DFJEinNpodzj&rid=a18b5837-e543-11f0-af5c-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pbtMbJDph3Pl&st=330&mp4=1&h2=__TaF7HQs5f0wgNvC70TKDotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7T4SBmKnMgOm-9Juz7CscQ5A**
+              - link "Learn more→" [ref=f3e19]:
+                - /url: https://clck.mgid.com/ghits/25715240/i/58092122/0/pp/1/7?h=nNns9IgZ1OH2zBzJz6KvlNPBS4ulWCDCCPGDYbZuyEU0NOIrLu2IWh-2dowYhSS5_MBhGTcj0dpJtiaOUNgkPkDhvIfn_RaR5jjH-kYJwf45hIrQkyy-DFJEinNpodzj&rid=a18b5837-e543-11f0-af5c-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pbtMbJDph3Pl&st=330&mp4=1&h2=__TaF7HQs5f0wgNvC70TKDotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7T4SBmKnMgOm-9Juz7CscQ5A**
+      - generic [ref=e318]:
+        - img [ref=e320] [cursor=pointer]
+        - iframe [ref=e323]:
+          - generic [ref=f4e2]:
+            - link "Advertisement" [ref=f4e4] [cursor=pointer]:
+              - /url: https://ad.doubleclick.net/pcs/click?xai=AKAOjsuhjyQiYxfkePd6xp39AoNlK4YGrlUlSohbJw7Ak045bdKzA5u3bfPRsMW8jjROdPELq0AAt3aGh3C-OzJJ7wmgCS6lsMCEPJgqyH9lO7vu4iA9OdN1lflOoFR8Z_nuhvbs0iD_NZDWNVezW0yf0RY5deBqhQqbku57chKTUKKrkcm3nC-ZU0DYqb7nMb5IVF0LvjwfaFYRtXbj7GIeYhQ-niFE9bulRFSFNsDCJYhowo5MGi9p7rQwv32X2jwU4L1TP_IcWjj3Gt0CoIiMuTxdluIpBn04rgABI2dSYi7c9uuTJkfGszKghBexD-cyqicsjFr0hmylMcKEV4_UmsD7cjSvj1hykY6Q2GQNN8pTH0Mfu3iHK55F27SM6pFWl-XnISLp_CMjpejmTY11D8rt241RolFTRABkPh82YXlMtdhrAlyaruy-lkLeFgHOqCL8Mvfw_AfOjPQyS3E65JfGdgwYRv3QkBuyIMW4hQThxIj3pUDSkqur8EYqUT94aHmzILb8LbxOAhbEKuRvpBQJctwqfc5OFZu7IimUqk23AQY7vATu9g55X9F-1zxrIGVlV-uPS0xtQpIcRseDvqBNT2IIWfnhbg5lTPZtt2_QTr5Y8VDsGYXLrmoDSUztYNIzZ5Z5loytGTnxQodJ5RV0w57lkjbA7zOEdL2PMJSpkOyNtt3MdEfuEDMoLH82kP-WWuP5MAwAQFf-cvE3KuaDaTybm04pSWRMQ6YCeRV1NHp8qFO7dhxjNkxJDZEPETnETy_AjdbivvDrFWX_ySfcvWdAHDBlUEa6XDDxPPuCbLgdRG3u2APT2SZ_tJehPANukDhwKUKemjDSr_9fgQjhcDhMvewzY7vJVBt1ZuvsTHIFr2-pKZOVa1DwrMT3mtlmLptKWBEme1c5jOp89YM78vibhjgWaUhn_gyYBG2hjb2krPC0OCtcLNv9iehLeOYmJKV7SlXIJ6B6POQCSIGy2McGODc1uuV-7AKHzPjUBo69pgErktruHFjn04ygIHZVDmfwYKOuIBMCFUQ5tgxYCTejljzogDH6MJW4je4VbwCHnshjWiv4vX1631cHOzn84hgqapSY3ZFd1m7NFIFbZ1DL1mjU01sLa6SEkQf4X3h5ZY09cGjLLsNiGWvA4DPbrzWb71dz_0Yj6wnDYvrURkHUM8o3H2vG7ltcxu3FH3NIOtuNTaoyhKkKLnjgGzt9UH9Zzn9otHlOFGllk0bz_IJ6_7zaS6GjnkegeCibjIXtoDkNt0a5SYf0D8TaRAOlb7PvHZxOBNRHLOBcgrS0yTAJHbS3tpl46dyIEKzxjGY7Sz62zH3ngiwmyQJP-xqwr6EbpisVRCo7SCUdrNJEOy7It-4hC58lPPdoCqdGSKllmS4bTQ8Ae3zpioM_JS8L8ECNNclXlmDuk44J4ode91RGkT0n_VeeMOvCWzkhh6LwFVsED4JcpaWeo9mAfuzfWZIb1cU_hs1ZLh6NcyamlO5Q-xaV59rzoSSI5v_kWcuc9NcB0pYvOHQXjhnS3YO6DGCUiHxMt98Yr-vHnFPREcymfABKpk3sw1X6qnH3F3tMSAweVDo4hgwVmzrmLDqWuchOtvoAjilKyRvx3J-c25irD56a-paVXMEXUvRTbgmKXnGyoymu7GVy4Be9B2rU8KZnuyd-S97YGM-ODmU1nmTgchpqhsvrMzYJQ-l6y3CdolkEP_ODwv-nH4nqYgPQzxszsSUHWzNXZiZd2doD6EYCdZEENg3SuxLRH72FcsK-4N15W7_W5Iq0oV7qA6Nnj4TVVQcE1HUdhM28uV8nj__hrR4-WED1rMkqvnl5we7jfVCD0A&sai=AMfl-YTbIIyS1EcQheL9bsXZBdYVzIdCg1xA68VCc_lKJPjq2j7BZYrjOw3iROxgt2mRsR6xET3QZVcqZtKwT0W1MkP08i3S6VXheczVzNHVUuEwZO3ZuOTwye0WCsSR0b0zmf6otBmsnhlreIKEj4Did7kUD7_2WnkuC3HHnTBGOzv-E3itKomDg4aF2FLHkF50tvq8CWx-FiudfmNdkmMM6jMgRAgznill6VxiG-KAJiNinGyoqHz5eaDv1WCsj-xbdEnDUh5CabTSZLaZFBAz6t6pNnROf70RZf4nx5BMSL2vzIwtn3KngE7MlT3r1N53NW6TULzdxW_ypxWyK-jxKrRj0SHVm5iPE2gpj92qc_6QzoS9sUMrF-7KrdsMoqMSVddJxooD0ah2CufJOMGYcopFWO_Xby-rmIWwumVAMPpVebbpIL3vGVc6hISNQkDhgpxtHc1aHa3WDQeLmOeVl1PWjxDXFV2QWlblRpLAHeaoXf7z0EApThe_9cknP4Z3sHnHdgDAxz-ZoGCvt_Ilnz0L2bZgTa3jEemlEd8Tl7wm1dx-U85JDHpKFBG5Ml1t4KigDMGYU9FJQSO8zn_TIEH1_MkUG1tYFcpzFgnN7yb2jiwhEy9HRemnpZrWneWMUR4Gu1AsyhR5&sig=Cg0ArKJSzD3vkVdTtSIw&fbs_aeid=%5Bgw_fbsaeid%5D&crd=aHR0cHM6Ly9iYW5rLmlu&urlfix=1&adurl=https://bandhan.bank.in/possible-hai-product/affluent-savings-accounts%3Futm_source%3Ddisplay%26utm_medium%3Dcpm%26utm_campaign%3DHNI_north-west%26dclid%3D%25edclid!%26gad_source%3D7
+              - img "Advertisement" [ref=f4e5]
+            - generic [ref=f4e6]:
+              - generic:
+                - img [ref=f4e10] [cursor=pointer]
+                - button [ref=f4e12] [cursor=pointer]:
+                  - img [ref=f4e13]
+        - iframe [ref=e326]:
+          - generic [ref=f5e7] [cursor=pointer]:
+            - link [ref=f5e8]:
+              - /url: https://clck.mgid.com/ghits/25715241/i/58092113/0/pp/1/7?h=nNns9IgZ1OH2zBzJz6KvlJNtI6i7hAvoNB_cIV-0aJVWCO8QOGbg5XygdpdGi3e5_MBhGTcj0dpJtiaOUNgkPkDhvIfn_RaR5jjH-kYJwf4bh6K-VPcE3acRSJRrqPuj&rid=a18cd8b6-e543-11f0-af5c-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pbtMxwjU8lPl&st=330&mp4=1&h2=__TaF7HQs5f0wgNvC70TKDotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7T4SBmKnMgOm-9Juz7CscQ5A**
+            - generic [ref=f5e9]:
+              - link [ref=f5e11]:
+                - /url: https://clck.mgid.com/ghits/25715241/i/58092113/0/pp/1/7?h=nNns9IgZ1OH2zBzJz6KvlJNtI6i7hAvoNB_cIV-0aJVWCO8QOGbg5XygdpdGi3e5_MBhGTcj0dpJtiaOUNgkPkDhvIfn_RaR5jjH-kYJwf4bh6K-VPcE3acRSJRrqPuj&rid=a18cd8b6-e543-11f0-af5c-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pbtMxwjU8lPl&st=330&mp4=1&h2=__TaF7HQs5f0wgNvC70TKDotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7T4SBmKnMgOm-9Juz7CscQ5A**
+              - generic [ref=f5e14]:
+                - link "Unlock Performance While Keeping Data Secure" [ref=f5e16]:
+                  - /url: https://clck.mgid.com/ghits/25715241/i/58092113/0/pp/1/7?h=nNns9IgZ1OH2zBzJz6KvlJNtI6i7hAvoNB_cIV-0aJVWCO8QOGbg5XygdpdGi3e5_MBhGTcj0dpJtiaOUNgkPkDhvIfn_RaR5jjH-kYJwf4bh6K-VPcE3acRSJRrqPuj&rid=a18cd8b6-e543-11f0-af5c-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pbtMxwjU8lPl&st=330&mp4=1&h2=__TaF7HQs5f0wgNvC70TKDotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7T4SBmKnMgOm-9Juz7CscQ5A**
+                - link "Intel" [ref=f5e18]:
+                  - /url: https://clck.mgid.com/ghits/25715241/i/58092113/0/pp/1/7?h=nNns9IgZ1OH2zBzJz6KvlJNtI6i7hAvoNB_cIV-0aJVWCO8QOGbg5XygdpdGi3e5_MBhGTcj0dpJtiaOUNgkPkDhvIfn_RaR5jjH-kYJwf4bh6K-VPcE3acRSJRrqPuj&rid=a18cd8b6-e543-11f0-af5c-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pbtMxwjU8lPl&st=330&mp4=1&h2=__TaF7HQs5f0wgNvC70TKDotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7T4SBmKnMgOm-9Juz7CscQ5A**
+                - link [ref=f5e19]:
+                  - /url: https://clck.mgid.com/ghits/25715241/i/58092113/0/pp/1/7?h=nNns9IgZ1OH2zBzJz6KvlJNtI6i7hAvoNB_cIV-0aJVWCO8QOGbg5XygdpdGi3e5_MBhGTcj0dpJtiaOUNgkPkDhvIfn_RaR5jjH-kYJwf4bh6K-VPcE3acRSJRrqPuj&rid=a18cd8b6-e543-11f0-af5c-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pbtMxwjU8lPl&st=330&mp4=1&h2=__TaF7HQs5f0wgNvC70TKDotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7T4SBmKnMgOm-9Juz7CscQ5A**
+                  - img [ref=f5e20]
+    - contentinfo [ref=e327]:
+      - generic [ref=e328]: © 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.
+  - dialog [ref=e330]:
+    - document:
+      - generic [ref=e331]:
+        - generic [ref=e332]:
+          - generic [ref=e333]: Registration Form
+          - button "Close" [ref=e334] [cursor=pointer]:
+            - text: ×
+            - generic [ref=e335]: Close
+        - generic [ref=e337]:
+          - generic [ref=e338]:
+            - generic [ref=e340]: First Name
+            - textbox "First Name" [ref=e342]: Rahul
+          - generic [ref=e343]:
+            - generic [ref=e345]: Last Name
+            - textbox "Last Name" [ref=e347]: Dravid
+          - generic [ref=e348]:
+            - generic [ref=e350]: Email
+            - textbox "name@example.com" [ref=e352]: rahul@email.com
+          - generic [ref=e353]:
+            - generic [ref=e355]: Age
+            - textbox "Age" [active] [ref=e357]: "35"
+          - generic [ref=e358]:
+            - generic [ref=e360]: Salary
+            - textbox "Salary" [ref=e362]
+          - generic [ref=e363]:
+            - generic [ref=e365]: Department
+            - textbox "Department" [ref=e367]
+          - button "Submit" [ref=e370] [cursor=pointer]
+```
